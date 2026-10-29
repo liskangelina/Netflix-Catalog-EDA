@@ -23,13 +23,13 @@ Dibandingkan periode sampai 2018, pada 2019-2021 pangsa komedi naik paling tajam
 
 ## Visualisasi
 
-![Tren penambahan judul per tahun](images/tren_tahunan.png)
+![Tren penambahan judul per tahun](tren_tahunan.png)
 
-![Pergeseran pangsa genre antar periode](images/pergeseran_genre.png)
+![Pergeseran pangsa genre antar periode](pergeseran_genre.png)
 
-![Pangsa AS per tahun](images/pangsa_as.png)
+![Pangsa AS per tahun](pangsa_as.png)
 
-![Pangsa konten baru per tahun](images/konten_baru.png)
+![Pangsa konten baru per tahun](konten_baru.png)
 
 ## Hipotesis dan rekomendasi
 
